@@ -1,4 +1,4 @@
-Electron crashes when converting buffer from sharp to blob.
+Electron web contents crash when converting buffer from sharp to blob.
 
 To run:
 
